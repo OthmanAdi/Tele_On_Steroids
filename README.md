@@ -143,8 +143,3 @@ This tool is for educational and research purposes only. Users are responsible f
 
 ## Repository Tags
 #python #telegram #analytics #data-analysis #research #education #network-analysis #data-visualization
-
-## Short Description (for repo)
-"An educational Python tool for analyzing Telegram group dynamics and user engagement patterns using the official Telegram API. Features include member analytics, content analysis, and interactive visualizations for research and learning purposes."
-
-Would you like me to expand on any section or add additional documentation?
